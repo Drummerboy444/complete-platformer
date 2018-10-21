@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "2ed7e194-1a77-479b-a199-b33f35057fd6",
+            "Value": {
+                "id": "25dbb863-1404-454e-8754-c70c8be5f890",
+                "resourcePath": "sprites\\sMountain\\sMountain.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "315bf2da-6ae0-4c8a-9c9a-6d0b4b9aee13",
             "Value": {
                 "id": "aba2f1b2-edd8-4f9d-b9ec-cf4117862cb7",
@@ -180,6 +188,14 @@
                 "id": "8988ca2d-2892-4f80-919f-5178ac0c816c",
                 "resourcePath": "objects\\oSword\\oSword.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "58654599-5c6d-4b26-a316-53a77aca391d",
+            "Value": {
+                "id": "448de8f7-8354-4dfd-9527-95ee0ce36dc7",
+                "resourcePath": "sprites\\sTrees\\sTrees.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
